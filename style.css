@@ -6,9 +6,10 @@
 .div1{
     display: flex;
     align-items: center;
-    margin: 15px 100px;
+    padding: 15px 100px;
     position: fixed;
-    background-color: #CCE7FF;
+    background-color: white;
+    width: 100%;
 }
 
 .p1{
